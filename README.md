@@ -36,7 +36,9 @@ To capitalize on their increase in popularity, manufacturers can highlight the f
 
 For the new car models entering the top 10 car models in 2023, we can recommend that manufacturers keep an eye on their performance to understand their appeal and potential for sustained success<br />
 
-Also, focus on year-end sales events in November and December to maximize the sales volumes during these months.
+Also, focus on year-end sales events in November and December to maximize the sales volumes during these months. <br />
+
+Notebook for this EDA is [here](https://github.com/kuetena1/Cars_sales_2022-2023-EDA/blob/main/Sales_cars.ipynb)
 
 
 
